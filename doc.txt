@@ -1,1 +1,3 @@
 Creación de proyecto.
+ 
+Tarea creación CRUD.
